@@ -1,0 +1,3 @@
+rootProject.name = 'MobileCorridor'
+
+include ':app'
